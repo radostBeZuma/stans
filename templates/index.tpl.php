@@ -14,12 +14,14 @@
 
 	<link rel="stylesheet" href="/css/blocks/header.css">
 	<link rel="stylesheet" href="/css/blocks/top-block.css">
-
+	<link rel="stylesheet" href="/css/blocks/social-links.css">
 	<title>Stan`s assets</title>
 </head>
 <body>
 	<? require ('../blocks/header.php') ?>
 	<? require ('../blocks/top-block.php') ?>
+	<? require ('../blocks/social-links.php') ?>
+
 	<p style="height: 800px">content</p>
 
 	<!-- <h1>FOCUS ON THE PRODUCT AND LET US DO THE REST!</h1> -->

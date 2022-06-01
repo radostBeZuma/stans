@@ -66,7 +66,7 @@
 				</div>
 			</nav>
 			<div class="header__box-btn-cont">
-				<button class="btn-secondary btn-secondary--medium header__btn-cont" type="button">contact us</button>
+				<button class="btn-secondary btn-secondary--small header__btn-cont" type="button">contact us</button>
 			</div>
 		</div>
 	</div>

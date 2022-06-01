@@ -19,10 +19,12 @@
 
 .header__box-logo {
 	margin-top: -20px;
+	margin-right: 25px;
 }
 
 .header__box-menu {
 	display: flex;
+	margin-right: 25px;
 }
 
 .header__box-menu-item {

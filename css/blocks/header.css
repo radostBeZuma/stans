@@ -228,4 +228,8 @@
 		width: 100%;
 		box-sizing: border-box;
 	}
+
+	.header__menu-subitem {
+		white-space: normal;
+	}
 }

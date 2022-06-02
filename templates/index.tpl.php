@@ -31,8 +31,8 @@
 </head>
 <body>
 	<? require ('../blocks/header.php') ?>
-	<? require ('../blocks/top-block.php') ?>
 	<? require ('../blocks/social-links.php') ?>
+	<? require ('../blocks/top-block.php') ?>
 
 	
 	

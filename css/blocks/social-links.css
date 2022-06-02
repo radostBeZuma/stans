@@ -33,3 +33,9 @@
 .social-links__link:not(:last-child) {
 	border-bottom: 1px solid #19448419;
 }
+
+@media (max-width: 1024px) {
+	.social-links {
+		display: none;
+	}
+}

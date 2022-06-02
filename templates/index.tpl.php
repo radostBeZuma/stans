@@ -23,17 +23,19 @@
 		<link rel="stylesheet" href="/css/blocks/technologies.css">
 	<!-- index-page css init end -->
 
+	<!-- index-page js init -->
+		<script src="/js/header.js"></script>
+	<!-- index-page js init end -->
 
 	<title>Stan`s assets</title>
 </head>
 <body>
 	<? require ('../blocks/header.php') ?>
+	
 	<? require ('../blocks/top-block.php') ?>
 	<? require ('../blocks/social-links.php') ?>
-	<? require ('../blocks/technologies.php') ?>
-	
-	<!-- <p style="height: 800px">content</p> -->
 
+	
 	
 </body>
 </html>

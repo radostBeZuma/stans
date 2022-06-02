@@ -4,3 +4,13 @@
 ```
 	word-wrap: nowrap;
 ```
+3. Чтобы обратиться при активном классе к псевдоэлементу, надо писать следующее.
+```
+	.header__burger._is-active:before 
+	or 
+	.header__burger._is-active:after
+```
+4. Чтобы снять :hover у элемента, необходимо написать следующее свойство.
+```
+	pointer-events: none;
+```

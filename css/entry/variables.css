@@ -13,4 +13,20 @@
 	--palette-blue-tertiary: #84B5FF;
 
 	--palette-dark-blue-primary: #194484;
+
+	/* sizes */
+
+	--breakpoint-small: 320px;
+	--breakpoint-little: 480px;
+	--breakpoint-medium: 768px;
+	--breakpoint-large: 1024px;
+	--breakpoint-big: 1280px;
+	--breakpoint-huge: 1600px;
+	--breakpoint-u-huge: 1920px;
 }
+
+
+/* для смартфонов — 320 px, 480 px и выше
+для планшетов — 768 px и выше
+для нетбуков — 1024 px и выше
+для мониторов — 1280 px, 1600 px, 1920 px и выше */

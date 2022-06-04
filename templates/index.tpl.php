@@ -39,4 +39,4 @@
 	<? require ('../blocks/clutch.php') ?>
 	<? require ('../blocks/services.php') ?>
 </body>
-</html>
+</html>	 

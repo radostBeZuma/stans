@@ -19,7 +19,6 @@
 				</div>
 				<button class="btn-primary btn-primary--medium clutch__btn-clutch" type="button">Check out reviews</button>
 			</div>
-			
 		</div>
 	</div>
 </section>

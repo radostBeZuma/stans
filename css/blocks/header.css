@@ -7,7 +7,7 @@
 }
 
 .header.black-theme {
-	background: var(--palette-black-primary-light);
+	background-color: var(--palette-black-primary-light);
 }
 
 .header__container-content {

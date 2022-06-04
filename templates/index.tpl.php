@@ -22,6 +22,7 @@
 		<link rel="stylesheet" href="/css/blocks/social-links.css">
 		<link rel="stylesheet" href="/css/blocks/technologies.css">
 		<link rel="stylesheet" href="/css/blocks/clutch.css">
+		<link rel="stylesheet" href="/css/blocks/services.css">
 		<!-- index-page css init end -->
 
 	<!-- index-page js init -->
@@ -36,6 +37,6 @@
 	<? require ('../blocks/top-block.php') ?>
 	<? require ('../blocks/technologies.php') ?>
 	<? require ('../blocks/clutch.php') ?>
-	
+	<? require ('../blocks/services.php') ?>
 </body>
 </html>

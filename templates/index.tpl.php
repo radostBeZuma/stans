@@ -21,7 +21,8 @@
 		<link rel="stylesheet" href="/css/blocks/top-block.css">
 		<link rel="stylesheet" href="/css/blocks/social-links.css">
 		<link rel="stylesheet" href="/css/blocks/technologies.css">
-	<!-- index-page css init end -->
+		<link rel="stylesheet" href="/css/blocks/clutch.css">
+		<!-- index-page css init end -->
 
 	<!-- index-page js init -->
 		<script src="/js/header.js"></script>
@@ -33,8 +34,8 @@
 	<? require ('../blocks/header.php') ?>
 	<? require ('../blocks/social-links.php') ?>
 	<? require ('../blocks/top-block.php') ?>
-
-	
+	<? require ('../blocks/technologies.php') ?>
+	<? require ('../blocks/clutch.php') ?>
 	
 </body>
 </html>

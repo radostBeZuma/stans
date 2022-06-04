@@ -19,24 +19,7 @@
 				</div>
 			</div>
 			<p class="technologies__soft-desc">Our engineers develop applications for the most popular platforms.</p>
-			<!-- <div class="technologies__container-clutch">
-				<img class="technologies__clutch-logo" src="/uploads/img/clutch.png" alt="">
-				<div class="technologies__box-reviews">
-					<p class="technologies__mark-reviews">4.5</p>
-					<div class="technologies__box-stars">
-						<img class="technologies__img-star" src="/uploads/img/star.png" alt="">
-						<img class="technologies__img-star" src="/uploads/img/star.png" alt="">
-						<img class="technologies__img-star" src="/uploads/img/star.png" alt="">
-						<img class="technologies__img-star" src="/uploads/img/star.png" alt="">
-						<img class="technologies__img-star" src="/uploads/img/star.png" alt="">
-					</div>
-					<p class="technologies__count-reviews">
-						<span class="technologies__count">2</span>
-						<span class="technologies__count-reviews-text">reviews</span>
-					</p>
-				</div>
-				<button class="technologies__btn-clutch" type="button">Check out reviews</button>
-			</div> -->
+			
 		</div>
 	</div>
 </section>

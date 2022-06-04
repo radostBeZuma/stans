@@ -194,7 +194,7 @@
 
 	.header__menu-subitem {
 		padding-inline-start: 20px;
-		white-space: nowrap;
+		white-space: normal;
 		color: var(--palette-white-primary);
 		display: block;
 		font-weight: 700;

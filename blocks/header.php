@@ -15,7 +15,7 @@
 							<img class="header__link-arrow-img" src="/uploads/img/down-arrow-w.png" alt="Стрелка вниз">
 						</div>
 						<div class="header__menu-subitems">
-							<a class="header__menu-subitem" href="#">MOBILE APPLICATION DEVELOPMENT</a>
+							<a class="header__menu-subitem" href="#">MOBILE APPLICATION DEVELOPMENT DEVELOPMENT</a>
 							<a class="header__menu-subitem" href="#">GAME DEVELOPMENT OUTSOURCING</a>
 							<a class="header__menu-subitem" href="#">MOBILE APPLICATION DEVELOPMENT</a>
 							<a class="header__menu-subitem" href="#">VR APP DEVELOPMENT</a>
